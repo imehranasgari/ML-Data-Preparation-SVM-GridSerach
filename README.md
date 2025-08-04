@@ -66,23 +66,6 @@ The project uses a dataset named `Social_Network_Ads.csv`. Ensure this file is i
 *   **Best Accuracy**: 90.67 %
 *   **Best Parameters**: `{'C': 0.5, 'gamma': 0.6, 'kernel': 'rbf'}`
 
-## Screenshots / Sample Outputs
-
-### Cross-Validation Concept
-![Cross-Validation Image](https://cdn.hackernoon.com/hn-images/1*3XvSvKfde8u89TMwjkz3kg.png)
-
-### Hold-out vs. Cross-validation
-![Hold-out vs. Cross-validation Image](https://miro.medium.com/max/875/1*pJ5jQHPfHDyuJa4-7LR11Q.png)
-
-### Different Validation Strategies
-![Different Validation Strategies Image](https://www.upgrad.com/blog/wp-content/uploads/2020/02/screenshot-miro.medium.com-2020.02.14-17_27_05.png)
-
-### K-Fold Cross Validation Visual
-![K-Fold Cross Validation Visual](https://miro.medium.com/max/1400/1*4G__SV580CxFj78o9yUXuQ.png)
-
-### Grid Search Visual
-![Grid Search Visual](https://miro.medium.com/max/1400/0*0SGzQwbkOwSmE13A)
-
 ---
 
 # **Author:** mehran Asgari
